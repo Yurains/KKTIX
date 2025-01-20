@@ -18,4 +18,10 @@
 
 
 ### 補充
-- 超連結 `[使用教學影片](https://www.youtube.com/watch?v=pyHg4gWj5Eo)` 
+
+### 補充
+- 超連結 `[使用教學影片](https://www.youtube.com/watch?v=pyHg4gWj5Eo)` 已完整加入，並會在 GitHub 項目頁面顯示為可點擊的連結。
+- 影片標題簡潔明了，使用者點擊後即可直接觀看教學影片。
+
+完成後，將此 `README.md` 上傳到專案根目錄並推送到 GitHub，影片連結將自動顯示為超連結！
+
