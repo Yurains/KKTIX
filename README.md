@@ -16,10 +16,8 @@
 ### 注意
 注意:需自行安裝環境!!!!!!!!!!!! ，沒有打包喔
 
-
 ### 補充
 
-### 補充
-- 超連結 `[使用教學影片](https://www.youtube.com/watch?v=pyHg4gWj5Eo)` 
+`[使用教學影片](https://www.youtube.com/watch?v=pyHg4gWj5Eo)` 是正確的超連結格式，它會顯示成「使用教學影片」，並且可以點擊。
 
 
